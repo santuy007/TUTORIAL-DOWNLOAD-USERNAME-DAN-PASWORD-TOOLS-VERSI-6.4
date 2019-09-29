@@ -28,6 +28,10 @@ TUTORIAL:
 ![Screenshot_2019-09-30-05-34-22](https://user-images.githubusercontent.com/41493567/65840768-07874700-e347-11e9-9e4e-ad723fcd7bfb.png)
 # lalu jika sdh maka akan di bawa ketampilan seperti ini
 # setelah itu kalin klik Get Link Seperti gambar di bawah
+![Screenshot_2019-09-30-05-34-40](https://user-images.githubusercontent.com/41493567/65840790-4e753c80-e347-11e9-8198-e76bd2a79417.png)
+# tunggu waktunya sampai selesai jika sdh kalian klik 
+# Lanjutkan
+
 
 
 
