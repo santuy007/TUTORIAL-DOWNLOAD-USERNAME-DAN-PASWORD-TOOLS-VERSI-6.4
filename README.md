@@ -31,6 +31,10 @@ TUTORIAL:
 ![Screenshot_2019-09-30-05-34-40](https://user-images.githubusercontent.com/41493567/65840790-4e753c80-e347-11e9-8198-e76bd2a79417.png)
 # tunggu waktunya sampai selesai jika sdh kalian klik 
 # Lanjutkan
+![Screenshot_2019-09-30-05-34-58](https://user-images.githubusercontent.com/41493567/65840827-92684180-e347-11e9-9a1f-f3eda0308568.png)
+# setelah itu kalian akan di bawa ketampilan seperti ini
+# selanjutnya kalian klik lg Get Link lalu tunggu waktunya
+
 
 
 
