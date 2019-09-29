@@ -17,6 +17,11 @@ TUTORIAL:
 ![Screenshot_2019-09-29-20-03-23](https://user-images.githubusercontent.com/41493567/65840663-ed993480-e345-11e9-87c8-8a8fc9ea1261.png)
 # nah jika muncul iklan seperti ini kalian klik aja
 # seperti gambar di bawah ini
+![Screenshot_2019-09-28-05-54-47](https://user-images.githubusercontent.com/41493567/65840685-2b965880-e346-11e9-98ae-a22dea6daade.png)
+# Jika sdh langkah selanjutnya kalian ubah browser kalian
+# atau google crom kalian menjadi Situs Desktop
+# gmn caranya kalian cukup klik aja icon yg titik 3
+# pada sebelah kanan atas seperti gambar di bawah
 
 
 
