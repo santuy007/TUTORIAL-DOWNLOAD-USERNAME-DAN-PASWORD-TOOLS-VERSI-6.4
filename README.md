@@ -25,6 +25,9 @@ TUTORIAL:
 ![Screenshot_2019-09-30-05-34-08](https://user-images.githubusercontent.com/41493567/65840738-c2fbab80-e346-11e9-91ed-9109d1097202.png)
 # lalu jika sdh kalian cari yg namanya Situs Desktop
 # jika sudah ketemu kalian klik centang
+![Screenshot_2019-09-30-05-34-22](https://user-images.githubusercontent.com/41493567/65840768-07874700-e347-11e9-9e4e-ad723fcd7bfb.png)
+# lalu jika sdh maka akan di bawa ketampilan seperti ini
+# setelah itu kalin klik Get Link Seperti gambar di bawah
 
 
 
