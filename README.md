@@ -35,7 +35,13 @@ TUTORIAL:
 # setelah itu kalian akan di bawa ketampilan seperti ini
 # selanjutnya kalian klik lg Get Link lalu tunggu waktunya
 ![Screenshot_2019-09-30-05-35-28](https://user-images.githubusercontent.com/41493567/65840884-39e57400-e348-11e9-89bd-d905655c9257.png)
+# tunggu waktunya 10 detik
 # lalu jika sdh kalian klik lagi Get Link
+![Screenshot_2019-09-30-05-35-45](https://user-images.githubusercontent.com/41493567/65841001-40282000-e349-11e9-9b63-28279371b6a4.png)
+# jika sdh maka akan di bawa ketampilan seperti ini
+# di sini kalian tunggu waktunya sekitar 10 detik
+# lalu jika sudah kalian download deh user&pass nya
+
 
 
 
