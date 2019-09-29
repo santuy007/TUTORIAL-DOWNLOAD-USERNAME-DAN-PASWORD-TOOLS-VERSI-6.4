@@ -1,5 +1,5 @@
-# TUTORIAL-DOWNLOAD-USERNAME-DAN-PASWORD-TOOLS-VERSI-6.4
-TUTORIAL:
+ TUTORIAL-DOWNLOAD-USERNAME-DAN-PASWORD-TOOLS-VERSI-6.4
+
 
 # Langkah pertama pilih no.1 di tools termux nya 
 # lalu kalian pilih google crom untuk membuka nya
