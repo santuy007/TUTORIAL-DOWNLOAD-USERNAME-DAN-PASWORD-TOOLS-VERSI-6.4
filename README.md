@@ -34,7 +34,8 @@ TUTORIAL:
 ![Screenshot_2019-09-30-05-34-58](https://user-images.githubusercontent.com/41493567/65840827-92684180-e347-11e9-9a1f-f3eda0308568.png)
 # setelah itu kalian akan di bawa ketampilan seperti ini
 # selanjutnya kalian klik lg Get Link lalu tunggu waktunya
-
+![Screenshot_2019-09-30-05-35-28](https://user-images.githubusercontent.com/41493567/65840884-39e57400-e348-11e9-89bd-d905655c9257.png)
+# lalu jika sdh kalian klik lagi Get Link
 
 
 
