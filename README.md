@@ -41,7 +41,10 @@ TUTORIAL:
 # jika sdh maka akan di bawa ketampilan seperti ini
 # di sini kalian tunggu waktunya sekitar 10 detik
 # lalu jika sudah kalian download deh user&pass nya
-
+![Screenshot_2019-09-30-05-36-17](https://user-images.githubusercontent.com/41493567/65841053-a3b24d80-e349-11e9-8454-4777654ef658.png)
+# lalu jika sdh di download kalian buka lewat aplikasi Pdf
+# download di play store apk pdf jika sdh buka
+# ok semoga Bermanfaat
 
 
 
