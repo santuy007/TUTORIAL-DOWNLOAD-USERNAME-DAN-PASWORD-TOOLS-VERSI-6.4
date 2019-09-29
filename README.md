@@ -22,6 +22,9 @@ TUTORIAL:
 # atau google crom kalian menjadi Situs Desktop
 # gmn caranya kalian cukup klik aja icon yg titik 3
 # pada sebelah kanan atas seperti gambar di bawah
+![Screenshot_2019-09-30-05-34-08](https://user-images.githubusercontent.com/41493567/65840738-c2fbab80-e346-11e9-91ed-9109d1097202.png)
+# lalu jika sdh kalian cari yg namanya Situs Desktop
+# jika sudah ketemu kalian klik centang
 
 
 
