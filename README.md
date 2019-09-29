@@ -14,5 +14,9 @@ TUTORIAL:
 # seperti ini tunggu aja waktu nya sampai selesai
 # jika sudah kalian klik Get Link 
 
+![Screenshot_2019-09-29-20-03-23](https://user-images.githubusercontent.com/41493567/65840663-ed993480-e345-11e9-87c8-8a8fc9ea1261.png)
+# nah jika muncul iklan seperti ini kalian klik aja
+# seperti gambar di bawah ini
+
 
 
